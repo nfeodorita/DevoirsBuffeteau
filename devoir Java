@@ -1,0 +1,85 @@
+case 1:
+                    int grille;
+                    int grille1;
+                    int grille2;
+                    int grille3;
+                    int grille4;
+                    int grille5;
+                    do {
+                        System.out.print("Combien de grille souhaitez vous");
+                        grille >=0;
+                         Scanner.nextInt() ("");
+
+                     do {
+                         System.out.print("Grille1");
+                         Scanner.nextInt();
+                         for (grille1 =1 ; grille1 + 1 ; grille1++ ); }
+                     while (grille1 >=99) ;
+                        do {
+                            System.out.print("Grille2");
+                            Scanner.nextInt();
+                            for (grille1 =1 ; grille1 + 1 ; grille1++ ); }
+                        while (grille2 >=99) ;
+
+                        do {
+                            System.out.print("Grille3");
+                            Scanner.nextInt();
+                            for (grille3 =1 ; grille3 + 1 ; grille3++ ); }
+                        while (grille3 >=99) ;
+                        do {
+                            System.out.print("Grille4");
+                            Scanner.nextInt();
+                            for (grille4 =1 ; grille4 + 1 ; grille4++ ); }
+                        while (grille4 >=99) ;
+                        do {
+                            System.out.print("Grille3");
+                            Scanner.nextInt();
+                            for (grille5 =1 ; grille5 + 1 ; grille5++ ); }
+                        while (grille5 >=99) ;
+
+                        do {
+
+                        }
+                        do {
+                            System.out.print("La meilleure grille est ");
+
+
+
+
+
+
+
+                     }
+
+
+                    break;
+                default:
+
+            }
+
+                     do {
+                         System.out.print("La meilleure grille est ");
+                         for( )
+                     }
+
+                     }
+
+
+            break;
+            int releve;
+                int normal;
+                int vigilance;
+                int critique;
+                int temperature;
+                do {
+                    System.out.print("Relevé n°1(ou 0 pour terminer");
+                     if (releve == 0);
+                     System.out.print("Bilan");
+                    System.out.print("Temperature moyenne :");
+                    System.out.print("Temperature maximale");
+                    System.out.println("Vigilance : Critique :");
+
+                    System.out.print("Relevé n°1");
+                    if (temperature >= 27) ;
+                }
+        }
